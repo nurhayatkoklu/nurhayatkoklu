@@ -22,7 +22,7 @@ Passionate and solution-oriented QA Engineer with 3+ years of experience, seekin
 <img src="https://logo-download.com/wp-content/data/images/svg/MySQL-logo.svg" alt="mySQL" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://nehajain216.github.io/img/jdbc.png" alt="jdbc" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="postman" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png" alt="restassured" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="restassured" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="github" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40"/></p>
 
