@@ -7,10 +7,10 @@ Welcome to my page…
 
 ![image](https://user-images.githubusercontent.com/108660163/197388852-84577b35-f991-405e-86c6-be66820cac47.png)
 
-<h3>-----------------------------------------------------About Me-----------------------------------------------------</h3>
+<h3>-------------------------------------------------------About Me-------------------------------------------------------</h3>
 Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
 
-<h3>-----------------------------------------------Languages and Tools-----------------------------------------------</h3>
+<h3>-----------------------------------------------My Languages and Tools-----------------------------------------------</h3>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png?20111229210123" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641" alt="sql" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +25,15 @@ Passionate and solution-oriented QA Engineer with 3+ years of experience, seekin
 <img src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png" alt="restassured" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="github" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40"/></p>
+
+<h3>---------------------------------------------------Where to Find Me---------------------------------------------------</h3>
+
+<img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" alt="connecting" width="40" height="40"/>  <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)  </b>
+<p><a href="https://github.com/nurhayatkoklu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/koklunurhayat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@nurhayatkoklu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+
+ 
 
 
 
