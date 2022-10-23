@@ -18,8 +18,11 @@ Passionate and solution-oriented QA Engineer with 3+ years of experience, seekin
 <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png?resize=1024%2C576&ssl=1" alt="testNG" width="40" height="40"/>
 <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="cucumber" width="40" height="40"/>
 <img src="https://static.javatpoint.com/apache-poi/images/apache-poi-tutorial.png" alt="apachePOI" width="40" height="40"/>
-
-
+<img src="https://logo-download.com/wp-content/data/images/svg/MySQL-logo.svg" alt="mySQL" width="40" height="40"/>
+<img src="https://nehajain216.github.io/img/jdbc.png" alt="jdbc" width="40" height="40"/>
+<img src="https://voyager.postman.com/logo/postman-logo-orange-stacked.svg" alt="postman" width="40" height="40"/>
+<img src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png" alt="restassured" width="40" height="40"/>
+<img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" alt="github" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="40" height="40"/>
 
 
