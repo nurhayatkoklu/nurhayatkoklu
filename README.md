@@ -8,7 +8,7 @@ Welcome to my page…
 ![image](https://user-images.githubusercontent.com/108660163/197388852-84577b35-f991-405e-86c6-be66820cac47.png)
 
 <h3>-----------------------------------------------------About Me-----------------------------------------------------</h3>
-Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and White Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
+Passionate and solution-oriented QA Engineer with 3+ years of experience, seeking to deliver top-quality work with detailed and neat test cases and test scenarios while expanding knowledge in Agile projects. Experienced in a wide variety of testing activities including but not limited to Frontend Testing, API Testing, Backend Testing, Smoke Test, Regression Test, System Integration Test, and Black and Grey Box Testing, at all test levels. A flexible team player, self-motivated bug hunter, and creative thinker with outstanding communication skills.
 
 <h3>-----------------------------------------------Languages and Tools-----------------------------------------------</h3>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png?20111229210123" alt="java" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
