@@ -1,7 +1,7 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hello, world! I’m Nurhayat. :wave: </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hello, world! :wave: </h1>
 
-<h1> <p align="center">Welcome to my page!:tada:</p></h1>
+<h1> <p align="center">I’m Nurhayat. Welcome to my page!:tada:</p></h1>
 
 
 
