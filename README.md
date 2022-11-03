@@ -38,9 +38,8 @@ Passionate and solution-oriented QA Engineer with 3+ years of experience, seekin
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nurhayatkoklu&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nurhayatkoklu&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nurhayatkoklu&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Nurhayat's github stats](https://github-readme-stats.vercel.app/api?username=nurhayatkoklu)
+
 
 
 
