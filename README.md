@@ -38,7 +38,7 @@ Passionate and solution-oriented QA Engineer with 3+ years of experience, seekin
 
 
 # 📊 GitHub Stats:
-![Nurhayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=nurhayatkoklu)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurhayatkoklu&show_icons=true&locale=en" alt="nurhayatkoklu" /></p>
 
 
 
