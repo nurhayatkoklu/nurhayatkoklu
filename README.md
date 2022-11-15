@@ -4,7 +4,6 @@
 <h1> <p align="center">I’m Nurhayat. Welcome to my page!:tada:</p></h1>
 
 
-
 ![image](https://user-images.githubusercontent.com/108660163/197409215-e1dda3a2-aa46-4100-a79a-db9ed760944e.png)
 
 <h3><p align="center"> -----About Me-----</p></h3>
